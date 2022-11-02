@@ -1,1 +1,0 @@
-The Base Adult is a famous database used in Statistical Learning and consists in data gathered from the population, containing informations such as education, type of work, marital status, nationality and other social indicators. The label of interest is the income of the individual, where such label is binary: it indicates if the person earns more or less than 50K/year.
